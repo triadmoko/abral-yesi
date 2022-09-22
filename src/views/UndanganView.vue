@@ -1,8 +1,8 @@
 <script setup>
 import 'animate.css';
 
-
 </script>
+
 <template>
   <main>
     <audio hidden controls autoplay="true">
@@ -24,8 +24,8 @@ import 'animate.css';
           <div class="flex justify-center ">
             <img class="animate__animated animate__fadeInDown" src="./../assets/images/name.png" alt="" />
           </div>
-          <p class="mt-2 leading-8 font-extrabold tracking-tight desc text-2xl">Sabtu, 25 Juni 2022</p>
-          <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">Kediaman Mempelai Wanita</p>
+          <p class="mt-2 leading-8 font-extrabold tracking-tight desc text-2xl">Senin, 17 Oktober 2022</p>
+          <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">Kediaman Mempelai Pria</p>
 
           <div class="relative rounded-xl overflow-auto p-8">
             <div class="flex justify-center">
@@ -56,21 +56,17 @@ import 'animate.css';
           </p>
           <br>
           <div class="flex justify-center h-96  drop-shadow-md hover:drop-shadow-xl">
-            <img class="animate__animated animate__fadeInDown rounded-xl"
-              src="./../assets/images/cb624a81-333e-4ec4-941d-475ba8ca14e8.jpeg" alt="" />
+            <img class="animate__animated animate__fadeInDown rounded-xl" src="./../assets/images/coverimg.png"
+              alt="" />
           </div>
           <p class="mt-4 lg:mx-auto">
-            <span class="sec2">Melika Santi Mendrofa</span>
-            <br>
-            Putri dari Bapak Ide Siddik Mendrofa dan Ibu Ernawati Hasibuan
-            <br>
+            <span class="sec2"> Abrar Fazhli, S.H</span>
+
           <div class="flex justify-center">
             <img width="30" src="https://cdn-icons-png.flaticon.com/512/2904/2904973.png" alt="">
           </div>
-          <span class="sec2 mt-4 lg:mx-auto"> Refki Ramadhani</span>
-          <br>
-          Putra dari Bapak Aries Chan dan Ibu Nelmy Yetti
-          <br>
+          <span class="sec2 mt-4 lg:mx-auto"> Yesi Novendra Amd. Kep </span>
+
           </p>
         </div>
       </div>
@@ -88,16 +84,11 @@ import 'animate.css';
           </div>
           </p>
           <br>
-          <div class="grid grid-cols-1 gap-2 sm:grid-cols-3 justify-center">
+          <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 justify-center">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
               <h1 class="desc">Akad Nikah</h1>
               <img class="rounded-md shadow-2xl border-4 animate__animated animate__fadeInBottomLeft"
                 src="./../assets/images/card-akad-nikah.png" alt="">
-            </div>
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
-              <h1 class="desc">Resepsi Wanita</h1>
-              <img class="rounded-md shadow-2xl border-4 animate__animated animate__fadeInBottomRight"
-                src="./../assets/images/card-resepsi.png" alt="">
             </div>
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
               <h1 class="desc">Resepsi Pria</h1>
@@ -119,100 +110,6 @@ import 'animate.css';
   </section>
 
   <section>
-    <div class="bg-white py-14 bg-gradient-to-r from-cyan-500 to-blue-500">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8  rounded-md">
-        <div class="text-center ">
-          <p class="mt-4 max-w-2xl text-gray-500 lg:mx-auto">
-            Hormat Kami Yang Berbahagia :
-          <div class="flex justify-center">
-            <img src="./../assets/images/top.png" alt="">
-          </div>
-          </p>
-          <br>
-          <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 justify-center	">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
-              <h2 class="desc">Kel. Bapak Ide Siddik Mendrofa & Ibu Ernawati Hasibuan</h2>
-            </div>
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
-              <h2 class="desc">Kel. Bapak Aries Chan & Ibu Nelmy Yetti</h2>
-            </div>
-          </div>
-          <div class="relative rounded-xl overflow-auto p-8">
-            <div class="flex justify-center">
-              <table>
-                <tr>
-                  <th colspan="2"> Turut Mengundang :</th>
-                </tr>
-                <tr>
-                  <td>M. Widodo Mendrofa </td>
-                  <td>(Pak Uda)</td>
-                </tr>
-                <tr>
-                  <td>Purwati </td>
-                  <td>(Mak Uda)</td>
-                </tr>
-                <tr>
-                  <td>Vany Krisman Mendrofa </td>
-                  <td>(Adik)</td>
-                </tr>
-                <tr>
-                  <td>Rahmad Kelvin Mendrofa </td>
-                  <td>(Adik)</td>
-                </tr>
-
-                <tr>
-                  <td>Thasya Yuliyanti M </td>
-                  <td>(Sepupu)</td>
-                </tr>
-                <tr>
-                  <td>Suci Anjani Lestari M </td>
-                  <td>(Sepupu)</td>
-                </tr>
-                <tr>
-                  <td>Fajar Abim Musa M </td>
-                  <td>(Sepupu)</td>
-                </tr>
-                <tr>
-                  <td colspan="2"><br> Beserta Niniak Mamak, Urang Sumando, Sanak Family, dan Kedua Mempelai </td>
-                </tr>
-              </table>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section>
-    <div class=" bgaja bg-white bg-gradient-to-r from-cyan-500 to-blue-500">
-      <div class="text-center ">
-        <h1 class="desc">Album</h1>
-      </div>
-      <div class="container grid grid-cols-2 gap-2 mx-auto">
-
-        <div class="w-full rounded-sm">
-          <img class="sm:w-full  " src="./../assets/images/40b158a8-3923-46d9-aaa8-f7ad0fa8c753.jpeg" alt="image">
-        </div>
-        <div class="w-full rounded-sm">
-          <img class="sm:w-full " src="./../assets/images/9ea253c0-0749-4bf5-91d0-3bb8ef5a0099.jpeg" alt="image">
-        </div>
-
-        <div class="w-full  rounded-sm">
-          <img class="" src="./../assets/images/cb624a81-333e-4ec4-941d-475ba8ca14e8.jpeg" alt="image">
-        </div>
-        <div class="w-full rounded-sm">
-          <img src="./../assets/images/6cea47dd-11b2-4b37-9595-13d5f3448602.jpeg" alt="image">
-        </div>
-
-      </div>
-      <br>
-      <div class="container grid grid-cols-1 gap-1 mx-auto">
-        <div class="w-full rounded-sm">
-          <img src="./../assets/images/da882706-4a56-4247-86e3-97fe0daa191c.jpeg" alt="image">
-        </div>
-      </div>
-    </div>
-  </section>
-  <section>
     <div class=" py-16">
       <div class="text-center desc">
         <h1>Wedding Gift</h1>
@@ -222,29 +119,20 @@ import 'animate.css';
           <div class="grid grid-cols-1 gap-2 sm:grid-cols-3 justify-center mx-auto">
             <div class="max-w-md py-4 px-8 bg-white rounded-lg my-20">
               <div class="rounded-lg shadow-lg mx-auto p-4">
+                <div class="w-full rounded-sm">
+                  <img width="100"
+                    src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/02/2358485646.jpg" alt="">
+                  <br>
+                  <p>0091-01-008090-53-5 <br> A/n Abrar Fazhli</p>
+                </div>
+              </div>
+              <br>
+              <div class="rounded-lg shadow-lg mx-auto p-4">
                 <div class="w-full rounded-sm ">
                   <img
                     src="https://rec-data.kalibrr.com/www.kalibrr.com/logos/9PAJ9S3WW6URAHYJFHBG956Z3JTJ54YCJ4VX63HT-6090fe16.png"
                     alt="">
-                  <p>1110018708939 <br> A/n Melika Santi Mendrofa</p>
-                </div>
-              </div>
-              <br>
-              <div class="rounded-lg shadow-lg mx-auto p-4">
-                <div class="w-full rounded-sm">
-                  <img width="100"
-                    src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/02/2358485646.jpg" alt="">
-                  <br>
-                  <p>0058-01-128577-50-2 <br> A/n Melika Santi Mendrofa</p>
-                </div>
-              </div>
-              <br>
-              <div class="rounded-lg shadow-lg mx-auto p-4">
-                <div class="w-full rounded-sm">
-                  <img width="100"
-                    src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/02/2358485646.jpg" alt="">
-                  <br>
-                  <p>8050-01-004129-53-6 <br> A/n Refki Ramadhani</p>
+                  <p>1090017161993 <br> A/n Yesi Novendra</p>
                 </div>
               </div>
               <div>
@@ -258,11 +146,13 @@ import 'animate.css';
       </div>
       <div class="flex justify-center p-4 ">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.211402880432!2d100.63414801475363!3d-0.9993816992709843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe7a11922823b7f97!2zMMKwNTknNTcuOCJTIDEwMMKwMzgnMTAuOCJF!5e0!3m2!1sen!2sid!4v1655133347312!5m2!1sen!2sid"
-          class="rounded-sm p-4" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.416265490595!2d100.69273931475351!3d-0.8134059994066053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf260d82a30b0fe91!2zMMKwNDgnNDguMyJTIDEwMMKwNDEnNDEuNyJF!5e0!3m2!1sen!2sid!4v1663805301127!5m2!1sen!2sid"
+          width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
   </section>
+
 </template>
 
 <style scoped>

@@ -1,23 +1,19 @@
 <script setup>
-import { RouterLink } from 'vue-router'
-
+import { RouterLink } from "vue-router";
 </script>
 
 <template>
-
   <section>
-    <h2>
-      Maimbau Baralek
-    </h2>
+    <h2>Maimbau Baralek</h2>
     <div class="flex items-center justify-center h-screen">
-      <div class="items-center max-w-sm flex w-3/4 justify-center my-40 lg:max-w-full lg:flex ">
+      <div class="items-center max-w-sm flex w-3/4 justify-center my-40 lg:max-w-full lg:flex">
         <div class="max-w-sm rounded overflow-hidden shadow-lg bg-gray-200">
-          <img class="w-full" src="./../assets/images/a-15.png"
-            alt="Sunset in the mountains">
+          <img class="w-full" src="./../assets/images/coverimg.png" alt="Sunset in the mountains" />
           <div class="px-6 py-4">
-            <div class="font-bold text-center text-xl mb-2">Refki & Melika</div>
+            <div class="font-bold text-center text-xl mb-2">Abral & Yesi</div>
             <p class="text-gray-700 text-base text-center">
-              Kepada yang terhormat Bapak/Ibu Saudara/I Kami mengundang : <br><br>
+              Kepada yang terhormat Bapak/Ibu Saudara/I Kami mengundang :
+              <br /><br />
               <span class="nama"></span>
             </p>
           </div>
@@ -28,67 +24,102 @@ import { RouterLink } from 'vue-router'
           </div>
           <div
             class="z-20 flex justify-center bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-            <img class="w-10" src="./../assets/images/tdfprogramminglogo.png" alt="">
+            <img class="w-10" src="./../assets/images/tdfprogramminglogo.png" alt="" />
           </div>
         </div>
       </div>
     </div>
     <div class="leaf">
-      <div> <img src="http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png" height="75px"
-          width="75px" /></div>
-      <div><img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Pictures-Collage-PNG.png" height="75px"
-          width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Clip-Art-PNG.png" height="75px" width="75px" />
+      <div>
+        <img src="http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png" height="75px" width="75px" />
       </div>
-      <div><img src="http://www.pngmart.com/files/1/Green-Leaves-PNG-File.png" height="75px" width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Transparent-Autumn-Leaves-Falling-PNG.png" height="75px"
-          width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px">
+      <div>
+        <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Pictures-Collage-PNG.png" height="75px"
+          width="75px" />
       </div>
-      <div><img src="http://cdn.clipart-db.ru/rastr/autumn_leaves_025.png" height="75px" width="75px"></div>
-
+      <div>
+        <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Clip-Art-PNG.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Green-Leaves-PNG-File.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Transparent-Autumn-Leaves-Falling-PNG.png" height="75px"
+          width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://cdn.clipart-db.ru/rastr/autumn_leaves_025.png" height="75px" width="75px" />
+      </div>
     </div>
 
     <div class="leaf leaf1">
-      <div> <img src="http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png" height="75px"
-          width="75px" /></div>
-      <div><img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Pictures-Collage-PNG.png" height="75px"
-          width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Clip-Art-PNG.png" height="75px" width="75px" />
+      <div>
+        <img src="http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png" height="75px" width="75px" />
       </div>
-      <div><img src="http://www.pngmart.com/files/1/Green-Leaves-PNG-File.png" height="75px" width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Transparent-Autumn-Leaves-Falling-PNG.png" height="75px"
-          width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px">
+      <div>
+        <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Pictures-Collage-PNG.png" height="75px"
+          width="75px" />
       </div>
-      <div><img src="http://cdn.clipart-db.ru/rastr/autumn_leaves_025.png" height="75px" width="75px"></div>
-
+      <div>
+        <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Clip-Art-PNG.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Green-Leaves-PNG-File.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Transparent-Autumn-Leaves-Falling-PNG.png" height="75px"
+          width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://cdn.clipart-db.ru/rastr/autumn_leaves_025.png" height="75px" width="75px" />
+      </div>
     </div>
 
     <div class="leaf leaf2">
-      <div> <img src="http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png" height="75px"
-          width="75px" /></div>
-      <div><img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Pictures-Collage-PNG.png" height="75px"
-          width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Clip-Art-PNG.png" height="75px" width="75px" />
+      <div>
+        <img src="http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png" height="75px" width="75px" />
       </div>
-      <div><img src="http://www.pngmart.com/files/1/Green-Leaves-PNG-File.png" height="75px" width="75px" /></div>
-
-      <div> <img src="http://www.pngmart.com/files/1/Transparent-Autumn-Leaves-Falling-PNG.png" height="75px"
-          width="75px" /></div>
-      <div> <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px">
+      <div>
+        <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Pictures-Collage-PNG.png" height="75px"
+          width="75px" />
       </div>
-      <div><img src="http://cdn.clipart-db.ru/rastr/autumn_leaves_025.png" height="75px" width="75px"></div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Autumn-Fall-Leaves-Clip-Art-PNG.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Green-Leaves-PNG-File.png" height="75px" width="75px" />
+      </div>
 
+      <div>
+        <img src="http://www.pngmart.com/files/1/Transparent-Autumn-Leaves-Falling-PNG.png" height="75px"
+          width="75px" />
+      </div>
+      <div>
+        <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px" />
+      </div>
+      <div>
+        <img src="http://cdn.clipart-db.ru/rastr/autumn_leaves_025.png" height="75px" width="75px" />
+      </div>
     </div>
   </section>
 </template>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
 
 /* for the pen */
+html,
 body {
+  height: 100%;
+  scrollbar-width: none;
+  overflow-y: scroll;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -123,7 +154,6 @@ section {
   left: 20%;
   animation: fall 15s linear infinite;
   animation-delay: -2s;
-
 }
 
 .leaf div:nth-child(2) {
@@ -136,7 +166,6 @@ section {
   left: 10%;
   animation: fall 20s linear infinite;
   animation-delay: -7s;
-
 }
 
 .leaf div:nth-child(4) {
@@ -176,22 +205,18 @@ section {
   }
 
   40% {
-
     transform: translateX (-20px) rotate(90deg);
   }
 
   60% {
-
     transform: translateX (-20px) rotate(135deg);
   }
 
   80% {
-
     transform: translateX (-20px) rotate(180deg);
   }
 
   100% {
-
     top: 110%;
     transform: translateX (-20px) rotate(225deg);
   }
@@ -202,7 +227,7 @@ section {
 }
 
 .nama {
-  font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
   z-index: 2;
   font-size: 30px;
 }
@@ -212,7 +237,7 @@ h2 {
   position: absolute;
   top: 5%;
   width: 100%;
-  font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
   font-size: 50px;
   font-weight: bold;
   text-align: center;
