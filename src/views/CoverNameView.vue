@@ -12,7 +12,7 @@ import { RouterLink } from 'vue-router'
     <div class="flex items-center justify-center h-screen">
       <div class="items-center max-w-sm flex w-3/4 justify-center my-40 lg:max-w-full lg:flex ">
         <div class="max-w-sm rounded overflow-hidden shadow-lg bg-gray-200">
-          <img class="w-full" src="./../assets/images/a-15.png" alt="Sunset in the mountains">
+          <img src="./../assets/images/coverimg.png" class="w-full" alt="Sunset in the mountains">
           <div class="px-6 py-4">
             <div class="font-bold text-center text-xl mb-2">Refki & Melika</div>
             <p class="text-gray-700 text-base text-center">
