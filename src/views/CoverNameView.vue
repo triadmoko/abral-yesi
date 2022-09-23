@@ -14,7 +14,7 @@ import { RouterLink } from 'vue-router'
         <div class="max-w-sm rounded overflow-hidden shadow-lg bg-gray-200">
           <img src="./../assets/images/coverimg.png" class="w-full" alt="Sunset in the mountains">
           <div class="px-6 py-4">
-            <div class="font-bold text-center text-xl mb-2">Refki & Melika</div>
+            <div class="font-bold text-center text-xl mb-2">Abrar & Yesi</div>
             <p class="text-gray-700 text-base text-center">
               Kepada yang terhormat Bapak/Ibu Saudara/I Kami mengundang : <br><br>
               <span class="nama">{{ $route.params.name }} <br>&<br> {{ $route.params.partner }}</span>
